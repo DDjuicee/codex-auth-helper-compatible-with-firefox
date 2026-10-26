@@ -1,3 +1,11 @@
+明明可以用GPT，但是一进codex就要验证手机号，怎么办！？
+快下载这个吧！https://github.com/zhishile/codex-auth-helper
+
+原程序只能在chrome浏览器上用，但我用的是Firefox，所以我让AI帮我拓展了一下，现在在Firefox也可以用了，太好了！
+
+感谢zhishile圣人，终于用上codex。
+再以下内容就都是ai写的，啦啦啦。
+
 # codex-auth-helper(compatible with Firefox)
 
 仓库地址：https://github.com/DDjuicee/codex-auth-helper-compatible-with-firefox
